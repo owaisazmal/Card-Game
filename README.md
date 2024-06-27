@@ -12,7 +12,7 @@ A command-line card game where you play against the computer. Cards are randomly
 ![Screenshot 2024-06-27 at 11 29 58 AM](https://github.com/owaisazmal/Card-Game/assets/87142612/473c22b7-e0eb-41c6-85e1-a0792bc40edc)
 
 
-##Prerequisites
+## Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
 
